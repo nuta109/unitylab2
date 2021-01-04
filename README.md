@@ -1,6 +1,6 @@
 Lab2 Project 2019 Edition 
 
-<li><a href="unitylab2/Web/lab2/index.html">Lab 2 game</a></li>
+<li><a href="Web/lab2/index.html">Lab 2 game</a></li>
 
 **error from lab2**
 
