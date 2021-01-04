@@ -4,5 +4,5 @@ Lab2 Project 2019 Edition
 
 **error from lab2**
 
-![error_screen](https://user-images.githubusercontent.com/58943138/103475092-debcef80-4ddc-11eb-9e81-357e372ee0d6.png)
+![error_screen (2)](https://user-images.githubusercontent.com/58943138/103498937-fa75d380-4e78-11eb-8550-49f164f0f42d.png)
 
